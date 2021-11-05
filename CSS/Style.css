@@ -6,22 +6,22 @@ ul {
 }
     p {
     color: #FFFE21;
-    font-family: Fantasy;
+    font-family: sans-serif;
     font-size: 24px
 }
 H1 {
     color:#FFFE21;
-    font-family: fantasy;
+    font-family: sans-serif;
     font-size: 34px
 }
 H2 {
     color:#FFFE21;
-    font-family: Fantasy;
+    font-family: sans-serif;
     font-size:30px
 }
 H3 {
     color: #FFFE21;
-    font-family: Fantasy;
+    font-family: sans-serif;
     font-size:30
 }
 img {
