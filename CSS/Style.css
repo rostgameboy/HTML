@@ -1,26 +1,26 @@
 body {
-    background-color: #000000; 
+    background-color: black; 
 }
 ul {
-    color: #FFFE21;
+    color: yellow;
 }
     p {
-    color: #FFFE21;
+    color: yellow;
     font-family: sans-serif;
     font-size: 24px
 }
 H1 {
-    color:#FFFE21;
+    color: yellow;
     font-family: sans-serif;
     font-size: 34px
 }
 H2 {
-    color:#FFFE21;
+    color: yellow;
     font-family: sans-serif;
     font-size:30px
 }
 H3 {
-    color: #FFFE21;
+    color: yellow;
     font-family: sans-serif;
     font-size:30
 }
