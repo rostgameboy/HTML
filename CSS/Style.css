@@ -1,0 +1,30 @@
+body {
+    background-color: #000000; 
+}
+ul {
+    color: #FFFE21;
+}
+    p {
+    color: #FFFE21;
+    font-family: Fantasy;
+    font-size: 24px
+}
+H1 {
+    color:#FFFE21;
+    font-family: fantasy;
+    font-size: 34px
+}
+H2 {
+    color:#FFFE21;
+    font-family: Fantasy;
+    font-size:30px
+}
+H3 {
+    color: #FFFE21;
+    font-family: Fantasy;
+    font-size:30
+}
+img {
+    width: 400px;
+    height: 400px;
+}
