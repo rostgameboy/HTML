@@ -1,0 +1,26 @@
+body{
+    background-color: black; 
+}
+ul{
+    color: yellow;
+}
+p{
+    color: yellow;
+    font-family: sans-serif;
+    font-size: 24px
+}
+H1{
+    color: yellow;
+    font-family: sans-serif;
+    font-size: 34px
+}
+H2{
+    color: yellow;
+    font-family: sans-serif;
+    font-size:30px
+}
+H3{
+    color: yellow;
+    font-family: sans-serif;
+    font-size:30
+}
